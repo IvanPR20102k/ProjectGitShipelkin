@@ -25,4 +25,12 @@
         tools:layout_editor_absoluteX="34dp"
         tools:layout_editor_absoluteY="84dp" />
 
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Самый новый текст"
+        tools:layout_editor_absoluteX="47dp"
+        tools:layout_editor_absoluteY="125dp" />
+
 </androidx.constraintlayout.widget.ConstraintLayout>
